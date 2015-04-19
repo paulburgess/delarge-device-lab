@@ -3,12 +3,12 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#49494b;
   font-weight:300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#49494b;
   margin:0 0 20px;
 }
 
@@ -25,11 +25,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#49494b;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#49494b;
 }
 
 a {
